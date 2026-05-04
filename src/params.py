@@ -1,7 +1,7 @@
 # params.py
 
 fractions = ["Adipocytes", "Immune", "Stromal", "Epithelial"]
-subtype_order = ["Immunoreactive", "Differentiated", "Mesenchymal", "Proliferative"]
+subtype_order = ["Immunoreactive", "Differentiated", "Proliferative", "Mesenchymal"]
 subtype_map = {
     "IMR_consensus": "Immunoreactive",
     "DIF_consensus": "Differentiated",
