@@ -99,6 +99,16 @@ data/cell_labels/
   └── 2497_labels.txt
 ```
 
+## Single-nucleus adipocyte RNA-seq
+
+**GEO accession:** [GSE176171](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176171)
+
+**Samples:** 18 samples from 10 unique female donors.
+
+**Included GEO samples:** GSM5359325–GSM5359337, GSM5820679–GSM5820680, and GSM5820684–GSM5820686.
+
+**Excluded:** GSM5820681 (Hs_OAT_12-1), GSM5820682 (Hs_OAT_13-1), and GSM5820683 (Hs_OAT_266-1), as these originate from male donors.
+
 ### Single‑nucleus adipocyte RNA‑seq
 
 **GEO accession:** [GSE176171](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176171)\
