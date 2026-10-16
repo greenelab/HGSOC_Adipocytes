@@ -260,6 +260,10 @@ gc()
 ##########################################################
 
 # Read the files
+# Note, these are 18 samples from 10 unique donors - all female.
+# Excludes GSM5820681 — Hs_OAT_12-1, GSM5820682 — Hs_OAT_13-1,
+# and GSM5820683 — Hs_OAT_266-1, as these are from male donors.
+
 adipose_file_names <- c("GSM5359325_Hs_OAT_01-1.dge.tsv",
                         "GSM5359326_Hs_OAT_01-2.dge.tsv",
                         "GSM5359327_Hs_OAT_253-1.dge.tsv",
